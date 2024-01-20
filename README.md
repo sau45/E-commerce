@@ -2,7 +2,7 @@
 
 The EazyBuy e-commerce project consists of a frontend and a backend component. The frontend provides a user-friendly interface for both customers and admins to browse and purchase products. The admin has accessibility to update, delete, and manage orders of the products. Additionally, the backend handles server-side functionalities such as authentication, data storage, and order management.
 
-### Deployed Application [See Here](https://eazy-buy-ecommerce.vercel.app/)
+### Deployed Application [See Here]()
 
 ## Features
 🛒 User Panel:
@@ -48,7 +48,7 @@ To get started  you can simply clone this `EazyBuy ecommerce` repository and ins
 Clone the `EazyBuy ecommerce` repository using git:
 
 ```bash
-git clone git clone https://github.com/piyushkumarg/EazyBuy-ecommerce
+ git clone  https://github.com/sau45/Ecommerce_Full_Stack.git
 ```
 
 ### Frontend
