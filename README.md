@@ -1,6 +1,6 @@
-# EazyBuy - ecommerce
+# Eazy - ecommerce
 
-The EazyBuy e-commerce project consists of a frontend and a backend component. The frontend provides a user-friendly interface for both customers and admins to browse and purchase products. The admin has accessibility to update, delete, and manage orders of the products. Additionally, the backend handles server-side functionalities such as authentication, data storage, and order management.
+The Eazy-commerce project consists of a frontend and a backend component. The frontend provides a user-friendly interface for both customers and admins to browse and purchase products. The admin has accessibility to update, delete, and manage orders of the products. Additionally, the backend handles server-side functionalities such as authentication, data storage, and order management.
 
 ### Deployed Application [See Here](https://ezy-ecommerce.vercel.app)
 
@@ -43,12 +43,12 @@ The EazyBuy e-commerce project consists of a frontend and a backend component. T
 * Payments using Stripe 
 
 ## Getting Started
-To get started  you can simply clone this `EazyBuy ecommerce` repository and install the dependencies.
+To get started  you can simply clone this `Eazy ecommerce` repository and install the dependencies.
 
-Clone the `EazyBuy ecommerce` repository using git:
+Clone the `Eazy ecommerce` repository using git:
 
 ```bash
- git clone  https://github.com/sau45/E-commerce.git
+ git clone https://github.com/sau45/Ezy_Ecommerce.git
 ```
 
 ### Frontend
@@ -84,9 +84,9 @@ npm start
 
 Starts the backend server with nodemon for development, which automatically restarts the server on file changes with command:
 ```bash
-npm run dev
+nodemon start
 ```
-The server will start at http://localhost:8080.
+The server will start at http://localhost:5000.
 
 
 
